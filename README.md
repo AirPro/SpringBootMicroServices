@@ -1,6 +1,6 @@
 
-# Enterprise Application DEvelopment
-Full stack enterprise web development with Java, Tomcat, Spring, Dependency Injection, Maven, JSF, PrimeFaces, JSON, Hibernate
+# Enterprise Application Development By Brandan Jones Playlist on YouTube
+Full stack enterprise application development with Java, Tomcat, Spring, Dependency Injection, Maven, JSF, PrimeFaces, JSON, Hibernate
 
 This repository is the companion of a playlist on YouTube: https://www.youtube.com/playlist?list=PL73qvSDlAVVh4QHMkO2gM52deldy64n45
 
