@@ -15,6 +15,10 @@ public class MyPlacesController {
 		return "start";
 	}
 	
+	/**
+	 * Handle the default endpoint
+	 * @return
+	 */
 	@RequestMapping("/")
 	public String index() {
 		return "start";
