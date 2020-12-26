@@ -16,7 +16,7 @@ public class MyPlacesController {
 	}
 	
 	/**
-	 * Handle the default endpoint
+	 * Handle the / endpoint
 	 * @return
 	 */
 	@RequestMapping("/")
